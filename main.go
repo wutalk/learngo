@@ -2,18 +2,19 @@ package main
 
 import (
 	"fmt"
-	"kafka-hello-consumer/cg"
-	"kafka-hello-consumer/cg1"
-	"kafka-hello-consumer/cluster"
-	"kafka-hello-consumer/envparse"
-	"kafka-hello-consumer/json"
-	"kafka-hello-consumer/net"
-	"kafka-hello-consumer/runes"
-	"kafka-hello-consumer/producer"
 	"log"
 	"os"
 	"os/signal"
 	"strconv"
+
+	"learngo/cg"
+	"learngo/cg1"
+	"learngo/cluster"
+	"learngo/envparse"
+	"learngo/json"
+	"learngo/net"
+	"learngo/producer"
+	"learngo/runes"
 
 	"github.com/Shopify/sarama"
 )
