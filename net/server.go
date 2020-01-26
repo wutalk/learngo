@@ -17,7 +17,7 @@ func viewHandler(w http.ResponseWriter, req *http.Request) {
 }
 
 func StartHttpServer() {
-	http.HandleFunc("/hello", viewHandler)
+	http.HandleFunc("/", viewHandler)
 	hostUrl := "localhost:8080"
 	fmt.Println("Server is listening at", hostUrl)
 	err := http.ListenAndServe(hostUrl, nil)
