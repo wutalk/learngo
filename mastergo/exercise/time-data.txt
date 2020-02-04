@@ -1,0 +1,4677 @@
+<div class="sbo-toc">
+    <button type="button" class="sbo-toc-thumb close"><div class="visuallyhidden">Close</div></button>
+      <section class="ios-app-teaser">
+        <ul>
+            <li><a class="js-toc-link toc-link" href="https://itunes.apple.com/gb/app/safari-queue-library-over/id881697395?mt=8" role="button">Install App</a></li>
+            <li><a class="js-toc-link toc-link" href="safaridetail://9781788626545" role="button">Open in App</a></li>
+        </ul>
+      </section>
+      <div class="sbo-book-meta">
+        
+        <span class="cover">
+         <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/">
+          <img src="/library/cover/9781788626545/" alt="Cover image for Mastering Go" height="176" width="143">
+        </a>
+        </span>
+        <span class="title">
+          
+            
+                <a class="js-toc-link toc-link" href="/library/publisher/packt-publishing/">
+                  <img src="/static/images/partners/packt-publishing/OR02-Logo.png" class="publisher-logo video" alt="publisher logo">
+                </a>
+            
+          
+
+          <a href="/library/view/mastering-go/9781788626545/">Mastering Go</a>
+        </span>
+        
+        <span class="authors">by Mihalis Tsoukalos</span>
+        
+
+        
+        <span class="publishers t-publishers">Published by
+          <!-- Show publisher page link if publisher pages switch is on -->
+          
+            <a class="t-publisher-link toc-link js-toc-link" href="/library/publisher/packt-publishing/">
+              Packt Publishing</a>, 2018
+          
+        </span>
+        
+
+    
+
+    </div>
+  <ol class="tocList">
+    
+    
+    
+     
+
+     <li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0111b602-b4ba-49f5-9855-5b354446a341.xhtml">
+        Title Page <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c23235b6-6d6d-4dfa-b2e1-3a0566eb5893.xhtml">
+        Copyright and Credits <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8696d0ce-f98f-46c7-93e9-631cfd78e25b.xhtml">
+        Mastering Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8602f0c8-10bf-4785-baec-50cdc8971e1e.xhtml">
+        Packt Upsell <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d69d20e3-09e1-489c-941b-00f0f67d18a8.xhtml">
+        Why subscribe? <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/aec1778f-722f-461a-acc4-a3dab6661713.xhtml">
+        PacktPub.com <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/86288c1d-521c-4168-b201-1bbce16b3c41.xhtml">
+        Contributors <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9513c107-49b1-457e-89af-40f911b0910b.xhtml">
+        About the author <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8be1cf23-470f-47fc-bd97-e87e3a3923e0.xhtml">
+        About the reviewer <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/555798de-69ad-4119-8ad3-4270802f66b0.xhtml">
+        Packt is searching for authors like you <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/32e41e9b-2d0b-45f2-9daa-944385601c1e.xhtml">
+        Preface <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b53abf85-324a-455d-8f9f-e824e32486ef.xhtml">
+        Who this book is for <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a6a32ab3-b8fb-402a-b6a1-c501f227e040.xhtml">
+        What this book covers <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/39f6bdd7-6f93-4110-9bed-3b755a3cdf8c.xhtml">
+        To get the most out of this book <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/006b3e3c-76ff-43b5-9db5-e62b313ced83.xhtml">
+        Download the example code files <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/37787adf-cb4c-4381-9b91-79a46aadf966.xhtml">
+        Download the color images <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/70ec4e54-13b0-4d6f-97b9-0e5d97eefcf7.xhtml">
+        Conventions used <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/35740614-dec7-41ad-a965-27dcf5674513.xhtml">
+        Get in touch <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b419eeb5-eee3-4c54-a3f8-bc2cbdd40dab.xhtml">
+        Reviews <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/ecd37abc-5a5d-4d5c-b438-e5723b3d29ea.xhtml">
+        Go and the Operating System <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9b29ce6c-aa28-4a44-8693-962374ad99d0.xhtml">
+        The structure of the book <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c3fbaeb6-9974-4bbd-a282-57866c463ce5.xhtml">
+        The history of Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1b5a5b00-2dfd-4018-bfe6-154a3cc2e957.xhtml">
+        Why learn Go? <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/943176bd-c39c-4412-ade1-023a792945d7.xhtml">
+        Go advantages <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/47996842-332a-4421-8f57-2613176c9953.xhtml">
+        Is Go perfect? <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-4">
+     
+
+     <li class="toc-level4">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1fb0740b-4324-49dc-9265-757ad6ad7d98.xhtml">
+        What is a preprocessor? <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/f3ec6d00-7db3-42c9-a768-0e0d2efa1444.xhtml">
+        The godoc utility <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/11f1b226-32cc-4268-b737-10d8e3c0c34e.xhtml">
+        Compiling Go code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b0fe3e5d-5e66-407d-b9b3-870b34d4bc40.xhtml">
+        Executing Go code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9540b707-83aa-4b92-88d3-4b833599734b.xhtml">
+        Two Go rules <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e99aaf66-0198-4e2f-b260-22b2e964d3b8.xhtml">
+        You either use a Go package or do not include it <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/4acc949a-bc6e-4142-a171-f18d7cd5739e.xhtml">
+        There is only one way to format curly braces <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d52cf68e-d421-47fe-a50d-1127c4bbd870.xhtml">
+        Downloading Go packages <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/bb15ee77-1a68-41ee-abc8-83b491c5125e.xhtml">
+        Unix stdin, stdout, and stderr <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c1b98689-a783-4f7b-addd-dd9d02b75e41.xhtml">
+        About printing output <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/85ab0aca-b86d-48ef-b83a-749155552342.xhtml">
+        Using standard output <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6140a1bf-7551-4347-8193-4f64087499ff.xhtml">
+        Getting user input <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8568f986-5ef1-42d3-bbec-c60e31a3a739.xhtml">
+        About := and = <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e1ce0994-6ab4-4b62-84e7-b88cad7ffdef.xhtml">
+        Reading from standard input <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/3de9657f-9fb0-4244-b0d6-18588f5aadd7.xhtml">
+        Working with command-line arguments <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/203b13f6-2cb8-4653-9d04-8153ac799746.xhtml">
+        About error output <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/72ea73e7-ddb0-4f77-a585-cab804653800.xhtml">
+        Writing to log files <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/3c13237d-6e37-40c3-ad89-dde51e7faa0b.xhtml">
+        Logging levels <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8a3dbea3-06d7-48c4-ad8b-c43983ee64d9.xhtml">
+        Logging facilities <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/39d6a344-04de-453d-8352-8f8c9bfca786.xhtml">
+        Log servers <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2b86a4b8-c6ce-4268-92ab-99f3282978dd.xhtml">
+        A Go program that sends information to log files <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/4e0c657b-b80a-43aa-9b84-6378b74957dd.xhtml">
+        About log.Fatal() <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6948b853-4a9d-43ea-9d94-b5d8f9e86c1b.xhtml">
+        About log.Panic() <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7657965f-0893-4819-88a1-f42f6b24eb66.xhtml">
+        Error handling in Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e2724ecf-ae11-4b52-8cec-79f4bccbf73b.xhtml">
+        The error data type <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/928c3796-2276-43bc-be0d-9837d182fb25.xhtml">
+        Error handling <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/3cfa35cf-e4b0-494b-a953-e626e6cac1ab.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9ed9f64a-7bf9-432c-a4e7-348bd19351fe.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/3dcdd6e5-086c-431e-be5d-bd6aba9529ef.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c1c7fa50-11e8-4251-9524-1dbcecf95e43.xhtml">
+        Understanding Go Internals <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7744b23c-1b64-4e6a-8ce2-2e21a35b2bec.xhtml">
+        The Go compiler <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/266b6f60-6d0a-4a57-b46c-78e055263289.xhtml">
+        Garbage Collection <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/af88fc6d-6638-4cd3-8dad-c97c69cf94d8.xhtml">
+        The Tricolor algorithm <span class="minutes">(06:54 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/bca75dc7-3c9d-45cf-91bd-06fcfd3a7731.xhtml">
+        More about the operation of the Go Garbage Collector <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/4c1b281a-e9d9-4b54-9190-f996750a63ca.xhtml">
+        Unsafe code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1ff05f37-82a3-483f-aa0b-b25a2ae8e64b.xhtml">
+        About the unsafe package <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a71eb857-b853-4b4a-9544-b255bceecf45.xhtml">
+        Another example of the unsafe package <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/19722495-5d5e-4e50-8655-8db6c8868362.xhtml">
+        Calling C code from Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/db27e233-cf1d-456e-bda3-3b5acf296647.xhtml">
+        Calling C code from Go using the same file <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/09b9ee05-3e20-4b9d-b4a1-07b396f545f7.xhtml">
+        Calling C code from Go using separate files <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d3fe1528-0b16-4b46-9722-060d34529230.xhtml">
+        The C code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/26b61604-6593-4a94-972b-4e55d0768343.xhtml">
+        The Go code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0dd838c7-131f-4076-bed9-47f7611bd734.xhtml">
+        Mixing Go and C code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0ae64c76-6154-4668-811e-2e8c6656be0b.xhtml">
+        Calling Go functions from C code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/ce00d8f4-2b5c-4bc7-8fd0-e2ffae93fc5e.xhtml">
+        The Go package <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c8f95ae0-7fc1-4665-9a3b-631871cb7613.xhtml">
+        The C code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/279e30e2-f6f5-43d4-8d68-0ee4b82efceb.xhtml">
+        The defer keyword <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7dbef6d6-e4ac-41fd-b431-194097b4ab71.xhtml">
+        Panic and Recover <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/83d4edb9-85a9-490c-8930-7298e121f172.xhtml">
+        Using the panic function on its own <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e798f40c-7541-4eb7-bad8-1534339648a6.xhtml">
+        Two handy Unix utilities <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c896f0d7-5218-47f9-a0c1-3583f62a4bc9.xhtml">
+        The strace tool <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0f3dc2e2-9b1d-4bce-b0c2-c6a6b11c497f.xhtml">
+        The dtrace tool <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/290ffb63-d9cb-4b95-b044-e95b33fe67fd.xhtml">
+        Your Go environment <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/4dc2ddba-d63e-478e-a977-3911d89af504.xhtml">
+        The Go Assembler <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/baa1d486-c055-480e-863e-4be778cadf8d.xhtml">
+        Node Trees <span class="minutes">(08:03 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/48540029-3988-420f-b04e-ffe678f5a868.xhtml">
+        Learning more about go build <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/79fda2d4-d30a-4fcb-8a9b-8baf03853a1b.xhtml">
+        General Go coding advices <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6d51f249-778d-4848-a0f1-e48aa828c9cf.xhtml">
+        Additional Resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a032f3ff-00fb-4bd6-b1d3-14085533881b.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b72c9a88-7ce0-4d9e-a56e-6f7c883384a1.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/cb504076-ef0e-4d5c-bdc8-08bab24e183b.xhtml">
+        Working with Basic Go Data Types <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/cbea4e81-6cd7-43ab-8abd-605f3ce7ae98.xhtml">
+        Go loops <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/f12fc542-631c-42e9-a990-09abd943d715.xhtml">
+        The for loop <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1a7bb002-ea11-4ae8-9ca5-8e54c52a0215.xhtml">
+        The while loop <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e86e25ee-4727-406a-84dd-9ec2065bcdb2.xhtml">
+        The range keyword <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b12f8011-3db4-4aab-9d34-5afd4e112025.xhtml">
+        Examples of Go for loops <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b374c995-b6c8-4742-a74f-846e37586cc4.xhtml">
+        Go arrays <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/830d88e2-6468-4ee9-b0e2-b8970b4a5804.xhtml">
+        Multi-dimensional arrays <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/17bb4255-7847-41d0-b46d-5a72e1ed4c89.xhtml">
+        The shortcomings of Go arrays <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9eba053b-eff4-4ae4-9906-39c7b1447c29.xhtml">
+        Go slices <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6b1c5b17-f639-422e-ab40-1264918d4717.xhtml">
+        Performing basic operations on slices <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/23d4f1e6-8ee7-4672-9cec-ff89d7322ce0.xhtml">
+        Slices are being expanded automatically <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6c37fbe9-0163-497d-92a8-ef73dddbc858.xhtml">
+        Byte slices <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0a61a84f-6d5f-45e1-97bd-dd8b1e127909.xhtml">
+        The copy() function <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d032209b-953c-4173-90e8-926654acd162.xhtml">
+        Multidimensional slices <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/81789a93-5366-4610-b921-e8e27e770e97.xhtml">
+        Another example of slices <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1dfd6456-8247-4de5-ba65-ffa9ac3ac646.xhtml">
+        Sorting slices using sort.slice() <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/fb06c986-237e-4b94-ba32-681739f91528.xhtml">
+        Go maps <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9c67c6f9-146b-41e8-b48c-984e9aa62a0f.xhtml">
+        Storing to a nil map <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/90f92750-724f-4f75-9e9c-e55215c49760.xhtml">
+        When you should use a map? <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7e9acfdd-45c5-46b3-bf3f-c90f1944e127.xhtml">
+        Go constants <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8bb263b7-d68c-4266-8ad3-4bce2d6b8f97.xhtml">
+        The constant generator iota <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/fc0b6398-5ba0-4e8c-8cb3-5632ccec04ff.xhtml">
+        Go pointers <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a744b0d6-8cb1-4a12-91c7-813db2504d6a.xhtml">
+        Dealing with times and dates <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e8e889ca-832d-4211-b424-594936238809.xhtml">
+        Working with times <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2036cd5a-846b-49f8-aee7-4b79c781b286.xhtml">
+        Parsing times <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9ed10a62-7134-4323-b614-7e5312155234.xhtml">
+        Working with dates <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1241173a-1d10-4f72-8087-035a11cbc0b9.xhtml">
+        Parsing dates <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c32229d9-5288-4ce6-ad75-fb330e721d50.xhtml">
+        Changing date and time formats <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/14183b33-95e4-432f-a4a6-4c490a41ab7d.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/bfa654d4-83bc-4c7a-aeb1-8937ef4734a7.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/66663aec-8c65-43f8-a071-f13a770a51a4.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/536e9794-2ce2-4efc-bd84-3c929ea11c5c.xhtml">
+        The Uses of Composite Types <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/889f81fd-b07b-4ad9-a3e6-afc43e19dcc1.xhtml">
+        About composite types <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/69855710-c056-4542-a127-8cfd4618c6ed.xhtml">
+        Structures <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/37d80ebe-32c8-4c2d-acba-9fc3cd43289e.xhtml">
+        Pointers to structures <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/ef7329ae-1b2b-4b8f-b85b-82f9c5f8a0b3.xhtml">
+        Using the new keyword <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d15f0dec-a5cf-4eb4-b24e-74999e40f7c7.xhtml">
+        Tuples <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/072e0100-ad34-4484-ab5c-2caca9b9ee6b.xhtml">
+        Regular expressions and pattern matching <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/443436bf-a491-47ce-a03b-8cef987fd57c.xhtml">
+        Now for some theory <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a97c9eb0-fa40-447a-b7fe-cf9417f6b652.xhtml">
+        A simple example <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/94e92d0b-d4f7-425d-9458-a176b168f84d.xhtml">
+        A more advanced example <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/64100378-c484-4272-8143-805002e83b6c.xhtml">
+        Matching IPv4 addresses <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/09f1e221-fdb9-479a-9bfc-1974c4eb1426.xhtml">
+        Strings <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1294e7f8-3ba5-469c-93fe-559e775f9f02.xhtml">
+        What is a rune? <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/151d11cd-11fe-4ff9-98c4-f258e1648ea9.xhtml">
+        The Unicode package <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/de7dc09d-6e3a-4e88-84af-b9889eb8b456.xhtml">
+        The strings package <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/eb2145d9-af55-4ed1-a35d-5a0e0ca9b9d2.xhtml">
+        The switch statement <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e0098938-4b74-4521-ae18-49625e387b29.xhtml">
+        Calculating Pi with great accuracy <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/09100d37-903e-4ae3-bfad-e86e3ece94f3.xhtml">
+        Developing a key/value store in Go <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0c38b618-2486-4f5c-84e9-0ae00676fda2.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1ad43898-93d4-43b8-9478-b53323712203.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/531ef9ee-9994-4d21-95b2-909a01f82997.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1698cc78-00a6-423c-9947-8bda6fdc72a1.xhtml">
+        Enhancing Go Code with Data Structures <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/3d3fdaf7-7cef-490e-ae0f-3ba81954ce0f.xhtml">
+        About graphs and nodes <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e992a2e2-f62f-45ce-8abf-3c4d199ece8b.xhtml">
+        Algorithm complexity <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/04ba1b45-9a04-447a-a75b-49858eddb294.xhtml">
+        Binary trees in Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/799b0eee-9cf3-49ba-bbc6-670ab4867a6b.xhtml">
+        Implementing a binary tree in Go <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7b302347-d8fd-40e2-bddb-2b1d716e0248.xhtml">
+        Advantages of binary trees <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/086b8984-6cf0-4aae-a447-436abb37ad1f.xhtml">
+        Hash tables in Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/025ea42c-d705-4b8e-a277-5a67c7982bb9.xhtml">
+        Implementing a hash table in Go <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/bd5bb137-33d5-45c8-86b5-251695f89b2c.xhtml">
+        Implementing the lookup functionality <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2e78cb8d-baf3-47aa-8217-f393c672ba87.xhtml">
+        Advantages of hash tables <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/bf7e54f2-4118-4d2d-adff-5f8fbb16cb14.xhtml">
+        Linked lists in Go <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/42fe8818-b63f-47fa-bab3-db116ea46437.xhtml">
+        Implementing a linked list in Go <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/3e8b342a-8fdd-42b1-99a6-e06f50b574b5.xhtml">
+        Advantages of linked lists <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b6dec496-ad4f-4e52-8489-8d7f73ec4cbe.xhtml">
+        Doubly linked lists in Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/ad89d8e6-4efb-4e10-841d-566afada8261.xhtml">
+        Implementing a doubly linked list in Go <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c9c76ee1-cabd-431a-8fc9-77341f9adc87.xhtml">
+        Advantages of doubly linked lists <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7f59ed32-4679-47ef-be5b-c75d427eaa7e.xhtml">
+        Queues in Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/22603d1e-649c-4e92-b262-9f261a4a38dd.xhtml">
+        Implementing a queue in Go <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1d9652bc-505f-4dbe-bbe9-eedae16560fd.xhtml">
+        Stacks in Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/609dd619-bb84-4fa5-8215-875d5b10b775.xhtml">
+        Implementing a stack in Go <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6e310808-071e-470f-9a81-63b011cea6da.xhtml">
+        The container package <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5196169e-3d8d-4be5-a9cc-a2d4dc1535c5.xhtml">
+        Using container/heap <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/359b1e8b-230f-4dc6-bb3d-bdd80ec28752.xhtml">
+        Using container/list <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/88488fd8-c77a-4f14-a383-48d7855e072a.xhtml">
+        Using container/ring <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0302c445-6541-45e8-8c06-b5952360a8c2.xhtml">
+        Generating random numbers <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/07357941-8616-43cc-961e-5e1fee4b6788.xhtml">
+        Generating random strings <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0f7153b6-83d6-4a42-8d47-ff89c7170284.xhtml">
+        Additional Resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2a9694c2-118c-4e33-819a-c3459150bc70.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/676eb7dd-96fc-4503-bad2-809bbe126fb8.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2bd562c6-7306-4298-b4e2-f3541bd568cf.xhtml">
+        What You Might Not Know About Go Packages <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9906dfea-7c85-4038-bbdd-67f5397945c6.xhtml">
+        About Go packages <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/56745f6e-d663-4046-a455-85a3d3cb0a9f.xhtml">
+        About Go functions <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7f507714-b1fd-4760-83f9-9d2198accc0f.xhtml">
+        Anonymous functions <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/70dddbfd-ba9e-4be7-9e42-247de405b972.xhtml">
+        Functions that return multiple values <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2c1cf71b-2402-4674-83e7-3699281f4e4a.xhtml">
+        The return values of a function can be named! <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/f463bd83-b3b9-4730-8456-6e6fbeb81a1b.xhtml">
+        Functions with pointer parameters <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/f17ecf0d-238c-4fc9-a861-cd05af89c011.xhtml">
+        Functions that return pointers <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/653a2e1e-8d8d-413a-924b-29b17c3c1b0d.xhtml">
+        Functions that return other functions <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/38aa8543-5dfb-4b6b-9f36-0225dfb5dc12.xhtml">
+        Functions that accept other functions as parameters <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/322ca9d8-8075-499f-9d35-6af3e6a95cc4.xhtml">
+        Developing your own Go packages <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/31676af8-595b-45b8-b6e8-83c954975b7c.xhtml">
+        Compiling a Go package <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/22c87cc3-6c64-4039-8bb8-3361aff41c23.xhtml">
+        Private variables and functions <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/237bc4d5-8915-4187-b5b9-034fe1563bea.xhtml">
+        The init() function <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0a2a07da-5386-40a3-aedd-3432502963df.xhtml">
+        Reading the Go code of a standard Go package <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/ae062be7-847c-49de-bd71-598fe0ad3966.xhtml">
+        Exploring the code of the net/url package <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e8f70b40-b6b0-45b8-85eb-9cec1109bb68.xhtml">
+        Looking at the Go code of the log/syslog package <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/99c73ff5-3e05-4cb7-802a-8c31b5fca781.xhtml">
+        Creating good Go packages <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8e202ab1-f7b1-4901-b9cc-bed9d10b3aa2.xhtml">
+        The syscall package <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a0960491-d8a0-423c-9d23-c85e87ab1c46.xhtml">
+        Finding out how fmt.Println() really works <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c4784ff1-2c0f-42eb-9382-e658cfa397f3.xhtml">
+        Text and HTML templates <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b3d9d364-9e93-4011-ac8c-08338b96a59c.xhtml">
+        Generating text output <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/cfa9566b-b5eb-4ae2-9749-8901582f1064.xhtml">
+        Constructing HTML output <span class="minutes">(09:12 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/f989edd5-ada9-464c-bd5a-0270996644cb.xhtml">
+        Basic SQLite3 commands <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/bda0c2df-5612-44a3-928b-143dd176771d.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e8b0122b-2a44-4f58-b8b2-729908ef2a95.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/36588ef0-36c4-4f1e-8b6c-4607084db17f.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/4316bf0c-ca2c-4496-b4da-b8227e18efac.xhtml">
+        Reflection and Interfaces for All Seasons <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/74829df1-af78-4dce-a1e3-96693bf0d7e7.xhtml">
+        Type methods <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/524a7287-d606-4b1d-88ca-cfec72c0f5a3.xhtml">
+        Go interfaces <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0286b56c-94e0-405f-9b07-5f74b30ba781.xhtml">
+        About type assertion <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/f8e2a150-d8b6-4150-80bc-6257a08d3983.xhtml">
+        Developing your own interfaces <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5a9f795a-fa0a-40cc-bfcb-53460e429a8e.xhtml">
+        Using a Go interface <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/606acdbf-c40d-425b-86c0-e9ab2c2faeaf.xhtml">
+        Using switch with interface and data types <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a309bee6-9ad9-48bd-9252-9d4d839b9639.xhtml">
+        Reflection <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d2bc69fa-6d74-45c7-87b0-8aec8e4be046.xhtml">
+        A simple Reflection example <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8ac5aab1-90d1-4f82-98ac-6db8b5c0f3ef.xhtml">
+        A more advanced reflection example <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/43dd4847-9a30-482d-af1a-fda9afa33f90.xhtml">
+        The three disadvantages of reflection <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/94ce2fcc-2f30-4e72-910e-1887a937d079.xhtml">
+        Object-oriented programming in Go! <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/eb72303e-7217-47ea-b6d8-836c1cf76cd4.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c96ffb8e-2769-4806-b8cc-06cefa5890b3.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/f9b1127b-9452-478a-a41c-de8cce2c8d74.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/72707215-85a5-4c20-ba68-3b4f84558922.xhtml">
+        Telling a Unix System What to Do <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/099c91eb-9f5b-487d-8679-b1ba2e5b9123.xhtml">
+        About Unix processes <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5baef34f-3f50-48f7-a408-ba17be85d879.xhtml">
+        The flag package <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/371ccf57-7579-4ac1-935a-2701db7fe532.xhtml">
+        The io.Reader and io.Writer interfaces <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7bd7b60c-3d18-4b56-ba16-126e836b6a03.xhtml">
+        Buffered and unbuffered file input and output <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6fb4613f-fa02-45e9-940a-17374cdb2afa.xhtml">
+        The bufio package <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8a74fba2-4dcb-4df1-87a2-f7d2dbe5ba5d.xhtml">
+        Reading text files <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5adff8de-fb5a-41aa-89a2-34f879943548.xhtml">
+        Reading a text file line by line <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9289e21c-7c39-440e-ae0f-590f76290615.xhtml">
+        Reading a text file word by word <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b424c378-7c4c-4d1e-8693-1110544b9930.xhtml">
+        Reading a text file character by character <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/f6eee204-daae-4a32-80a9-6ee3bd8d2c53.xhtml">
+        Reading from /dev/random <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/64649402-dbd5-4015-a0bd-189989420978.xhtml">
+        Reading the amount of data you want from a file <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e577863e-c39f-4b47-9413-8bdd763f9c9e.xhtml">
+        Why are we using binary format? <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2072b704-e62a-4982-ab81-6d2f363aa534.xhtml">
+        Reading CSV files <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9c48e0cb-5d4b-4e6b-96f8-9bc3d656d3b8.xhtml">
+        Writing to a file <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/dc0963af-66b9-4f97-aff5-ad498bb7b30b.xhtml">
+        Loading and saving data on disk <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0119d3a7-b71d-475a-a27c-6c1232583c94.xhtml">
+        The strings package revisited <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0e658a6e-1050-40ee-8c8b-0bed339aaf53.xhtml">
+        About the bytes package <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7e127f6d-c3c6-4daf-b243-01e12b803bf5.xhtml">
+        File permissions <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/85f83227-8c52-4219-8e43-42d1bba3fae3.xhtml">
+        Handling Unix signals <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/11c2e2ac-65bf-4f02-91d2-5d644f0c17ad.xhtml">
+        Handling two signals <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/464c7018-1f49-4be2-9fc8-df2ac89ffa9a.xhtml">
+        Handling all signals <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/26008ad2-3b5e-40cd-913d-f5f97a3a98e4.xhtml">
+        Programming Unix pipes in Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/cbe95b53-9c37-4a90-9b3e-c166233dd6e8.xhtml">
+        Implementing the cat(1) utility in Go <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9a4761fd-e35c-4b80-8676-c13b06ed998f.xhtml">
+        Traversing directory trees <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/19ea2fa4-8d72-4ba6-ad76-a389c9e7b59f.xhtml">
+        Using eBPF from Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/f203107c-4c53-41e6-b764-ee5025afd00c.xhtml">
+        About syscall.PtraceRegs <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/75b24545-b907-4ed9-bdf9-d16e332a7084.xhtml">
+        Tracing system calls <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c1098294-3352-4d16-8cb5-bfecf557a799.xhtml">
+        User ID and group ID <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/36564a87-f1b7-4fa9-8a8f-13ac1fa11cf3.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/4486c7f1-7200-4405-bd18-19837e383c54.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0913d68e-69b9-46d0-9be9-276826134bb8.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9bb6c562-ff31-4460-8a71-816f3cf33f62.xhtml">
+        Go Concurrency &amp;#x2013; Goroutines, Channels, and Pipelines <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9cfcc264-445d-42f8-8ac6-606f37247b46.xhtml">
+        About processes, threads, and goroutines <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9717abc0-ab80-499a-aea7-ada6d87d21e9.xhtml">
+        The Go scheduler <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9bb5cbc3-14c2-4f1f-b450-b8e1f58b71b5.xhtml">
+        Concurrency and parallelism <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1d58a936-c8d7-4eb5-89d1-6689685d3614.xhtml">
+        Goroutines <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/15a2eddc-51a3-4924-b28f-b90534a63e1d.xhtml">
+        Creating a goroutine <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c8776f74-19f1-423c-8065-eccaf08bfd0c.xhtml">
+        Creating multiple goroutines <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/084cdb2f-3de3-4333-84b0-3545c875db46.xhtml">
+        Waiting for your goroutines to finish <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5b8efad5-1c89-461b-ac2d-50bbb118c056.xhtml">
+        What if the number of Add() and Done() calls do not agree? <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/f06d9362-0b47-413a-8efb-269a1c231146.xhtml">
+        Channels <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/0bf5b7f0-d5aa-4c17-9ebd-aa2d4b6ccf50.xhtml">
+        Writing to a channel <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/12383cb3-ff5d-4e06-9934-961b70f8a5a7.xhtml">
+        Reading from a channel <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/335f97d5-ee8d-459d-ae74-c1e5dd30190f.xhtml">
+        Channels as function parameters <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/54676654-874d-4882-81e8-e8ece0cf46c4.xhtml">
+        Pipelines <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/00576bca-7393-43fe-9bec-239a7eb32f13.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8f87aacb-0d51-4e82-a3c7-63d9e98de116.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d4ce5261-9973-41dd-bd3a-6bdd4fb0e5b7.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5067bc73-9b0b-4f27-8915-9c837d4530ef.xhtml">
+        Go Concurrency &amp;#x2013; Advanced Topics <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/209dcb4f-0bd7-431b-909f-69d07e2a5245.xhtml">
+        The Go scheduler revisited <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/ec9a3f47-f854-4d93-aa6c-9f17588bd9e9.xhtml">
+        The GOMAXPROCS environment variable <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b18718d5-7e90-4d68-921e-e37019d3912e.xhtml">
+        The select keyword <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6436e8b4-c476-457a-851d-066469a3e951.xhtml">
+        Timing out a goroutine <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7fe153fe-336f-4789-86a0-1d7b87294573.xhtml">
+        Timing out a goroutine&amp;#xA0;&amp;#x2013; take 1 <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/11db95e6-0ad1-4344-8e6b-d1fded437083.xhtml">
+        Timing out a goroutine&amp;#xA0;&amp;#x2013; take 2 <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/84ca83b7-46b0-4a1c-b093-7709be8de29c.xhtml">
+        Go channels revisited <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2f80f03d-959d-4fb6-8029-0c55f29d7c53.xhtml">
+        Signal channels <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/244da882-afb7-4d32-a0e3-7176986a0955.xhtml">
+        Buffered channels <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/79ed0d39-6e42-41fd-8807-960f2e64c57e.xhtml">
+        Nil channels <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5b0251c2-ffa4-46d1-a24f-8f7876bf8b6f.xhtml">
+        Channel of channels <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2f89e2a5-d5d4-42d9-a2cc-238ce4aef847.xhtml">
+        Specifying the order of execution for your goroutines <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/dc8369ec-f750-43f7-a147-abbf4c53a17e.xhtml">
+        Shared memory and shared variables <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/ab950920-9ffb-49b2-94b7-5b06e2a31167.xhtml">
+        The sync.Mutex type <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-4">
+     
+
+     <li class="toc-level4">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a629dc9b-10ba-437a-b58c-271b35e6bf40.xhtml">
+        What happens if you forget to unlock a mutex? <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/498fd196-3621-4244-bb76-7c6d29e6a5bb.xhtml">
+        The sync.RWMutex type <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/4fd3cf10-5c8d-4fa2-9ab9-39ef2c88eec9.xhtml">
+        Sharing memory using goroutines <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/03a4facb-bd45-4a59-a4f8-8936ecd6c04d.xhtml">
+        Catching race conditions <span class="minutes">(06:54 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/7cf5240f-75a2-4a5d-b942-5a906dae7369.xhtml">
+        The context package <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/66cdf15e-67a8-4a1e-b427-c921cc0d12e6.xhtml">
+        An advanced example of the context package <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/3d530180-da06-455e-8fc2-5ad1d9b905e1.xhtml">
+        Worker pools <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/088153ea-36d4-44ee-8690-a9e31b8b504e.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/bbd77da9-05b7-4245-88e6-757147a6d2f0.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6e1f2dbb-4c74-49ff-9bed-f41fd04db2e7.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/42864889-ff10-4982-8c97-ab1b168d2bec.xhtml">
+        Code Testing, Optimization, and Profiling <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d2a0d992-59b1-4a84-a6be-588928b82c20.xhtml">
+        The Go version used in this chapter <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8108901e-c201-4c43-8f04-e13924d7059a.xhtml">
+        Comparing Go version 1.10 with Go version 1.9 <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/dc22a3ba-7aca-46b6-b64e-85e9ea93b25b.xhtml">
+        Installing a beta or RC version of Go <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8c2a73e2-0fb6-457e-822a-0566a271060c.xhtml">
+        About optimization <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a22e0617-f97c-4fe3-8bf5-b4cd32d65be8.xhtml">
+        Optimizing Go code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b1591f1d-27fe-44fc-8571-72f3669501db.xhtml">
+        Profiling Go code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/65ccc738-c59b-46e5-91ab-db554a2cbd90.xhtml">
+        The net/http/pprof standard Go package <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e81fc34e-37e5-4f47-aceb-31c3ea3015c7.xhtml">
+        A simple profiling example <span class="minutes">(10:21 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/60bc554d-839c-47d3-a58b-2cd0cc9c4230.xhtml">
+        A convenient external package for profiling <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2204107b-a95f-42fe-869f-ad483d83ab30.xhtml">
+        The web interface of the Go profiler <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-4">
+     
+
+     <li class="toc-level4">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2e3cf17e-b661-44f9-ae3c-fe993d4585a8.xhtml">
+        A profiling example that uses the web interface <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level4">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e2975b0d-9939-4bda-af7a-64bfc8b259ad.xhtml">
+        A quick introduction to Graphviz <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e8d0744a-feb6-475b-9f7c-d7cba9b9823e.xhtml">
+        The go tool trace utility <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/25e6f5f9-cc33-4ae5-a6d6-56966bb6517d.xhtml">
+        Testing Go code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/cdf8d7f5-f060-40dc-904e-239c8326c506.xhtml">
+        Writing tests for existing Go code <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6109b077-877d-4952-b6af-e106e93a1ed2.xhtml">
+        Benchmarking Go code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d00bc717-e937-49a6-8221-ac4d4b060fec.xhtml">
+        A simple benchmarking example <span class="minutes">(08:03 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5056ac62-8076-407b-b77d-6cf5e208a4b9.xhtml">
+        A wrong benchmark function <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2d60a2df-07d7-4b55-9d24-4bf3d56d5d81.xhtml">
+        Benchmarking buffered writing <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/54d7c7bd-2eab-49b8-9dd8-8fef3ff0b687.xhtml">
+        Finding unreachable Go code <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/247719b9-df59-460d-aac6-b1f56f812142.xhtml">
+        Cross-compilation <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a67b66e7-b4be-4d36-8efa-c965b2770532.xhtml">
+        Creating example functions <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c966ae43-31ca-445d-a918-153408149bc1.xhtml">
+        Generating documentation <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/19042b76-4e61-4052-8c5d-97651e7d1b36.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/577d2614-362d-42ee-93e5-b26ed0429de0.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b7d2ce0b-f233-46e1-b118-c71bdc44e589.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/029a8ed2-3232-4dba-97a3-4829c79eb307.xhtml">
+        The Foundations of Network Programming in Go <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/819c196c-c2cc-44dc-be85-bf8cb0ed6088.xhtml">
+        About net/http, net, and http.RoundTripper <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e71c016d-df1c-40cb-8ad0-f5afe4557b12.xhtml">
+        The http.Response type <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/94f71a26-1547-4539-a4b5-fdd7b727de0b.xhtml">
+        The http.Request type <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5a970c18-f65f-4161-9561-e37b0da11798.xhtml">
+        The http.Transport type <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/ae5336b9-841f-4e35-bacf-c2259c2ef594.xhtml">
+        About TCP/IP <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/285e4960-bd9b-4020-8a86-42a33f248000.xhtml">
+        About IPv4 and IPv6 <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2b64a3c1-7937-404c-a3e0-02d439c8c6b0.xhtml">
+        The nc(1) command-line utility <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c2f39a71-0045-4a12-882a-8f7565948735.xhtml">
+        Reading the configuration of network interfaces <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8ea6fff6-112e-4ab5-aaf5-c30a39484920.xhtml">
+        Performing DNS lookups <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/00c6fdfa-16f4-4f4b-b0d2-8e6343f103fd.xhtml">
+        Getting the NS records of a domain <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/dc80ecc4-da95-457a-a977-5e9f9208ad82.xhtml">
+        Getting the MX records of a domain <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/900cec5d-b433-43fb-bd58-2397193dd109.xhtml">
+        Creating a web server in Go <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d14f6b6a-4293-4acf-bc1f-036e25c6eda5.xhtml">
+        Profiling an HTTP server <span class="minutes">(06:54 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e6bf8e3b-3330-48ae-b187-b1171f24bfe1.xhtml">
+        Creating a website in Go <span class="minutes">(10:21 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/dfa7ee7f-999b-46a2-95a0-27772368e6d3.xhtml">
+        HTTP tracing <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5aec39ae-2d7a-4a4a-a0ed-4c0c1d342fbe.xhtml">
+        Testing HTTP handlers <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c7b270a2-42b2-4b1a-9eae-4c7262e492f8.xhtml">
+        Creating a web client in Go <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/9481fc90-7282-4738-bef4-55e4d919b8cd.xhtml">
+        Making your Go web client more advanced <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/33f9beca-225d-47b4-b757-8ae47db93e8e.xhtml">
+        Timing out HTTP connections <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/5f398396-5f1b-4291-b835-1495e6fd47a2.xhtml">
+        More information about SetDeadline <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/2894a4fb-4651-41b3-8b81-81c6f3811107.xhtml">
+        Setting the timeout period on the server side <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/39c77847-0fe3-42f9-bdde-6c988f6c52c8.xhtml">
+        Yet another way to time out! <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/22fe8904-ecf8-421c-8f73-58b86cb00ec6.xhtml">
+        Wireshark and tshark tools <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/c690ce56-c732-4c4b-9833-1365a60dc4b8.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1e9c91ae-d9ad-461f-904a-0d7bafd19ca6.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/554cc6f2-a5fd-4165-be5e-6895fcb4566c.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6c5e7f13-4d14-4971-83bb-c3afa146cc50.xhtml">
+        Network Programming &amp;#x2013; Building Servers and Clients <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d9a6f973-1f70-4da4-b7ad-058b4533999c.xhtml">
+        The net standard Go package <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/99c227bc-07ce-44a4-9a37-c178cd702bc7.xhtml">
+        A TCP client <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/31148ece-37ad-4857-a8ce-7be75a49ec72.xhtml">
+        A slightly different version of the TCP client <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/4b26ee82-3f33-408b-bcdf-ed4342c04ad1.xhtml">
+        A TCP server <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/d9638ae2-52e7-4fc8-8684-5a4444478546.xhtml">
+        A slightly different version of the TCP server <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/fb859ec1-b77a-43a2-9582-7b46db7a4776.xhtml">
+        A UDP client <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/1cd4c6b8-3df8-4046-8940-9569f8bf67c4.xhtml">
+        Developing a UDP server <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/965474ac-2f8a-49e9-870e-5c5b3bab4efa.xhtml">
+        A concurrent TCP server <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/b8f3ea0c-37d3-4596-9bac-16fb05acda0e.xhtml">
+        A handy concurrent TCP server <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a4db670c-cfca-40ac-a367-8fd6ceebc55e.xhtml">
+        Remote Procedure Call (RPC) <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3 currently-reading">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/83838e62-0850-40f8-8901-0e5efc41693d.xhtml">
+        The RPC client <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/a5d5a658-d431-4a35-ad2e-1496a33f92a1.xhtml">
+        The RPC server <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/164aedde-7838-470b-9ba8-acd71e3c1224.xhtml">
+        Doing low-level network programming <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-3">
+     
+
+     <li class="toc-level3">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/81234f36-adbf-43f7-9e7a-2c96fe931084.xhtml">
+        Grabbing raw ICMP network data <span class="minutes">(09:12 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/6199e562-4db4-442c-9e30-15ffb34eca45.xhtml">
+        Where to go next? <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/e1972269-6646-4ab6-986d-a22c1517625b.xhtml">
+        Additional resources <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/ca166db1-f78c-4bac-bce9-a01bb312d60a.xhtml">
+        Exercises <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/8a28f4bb-bdf7-4d94-9d61-dd83719258bb.xhtml">
+        Summary <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/045a117b-9922-4982-8322-a3ac34f99b79.xhtml">
+        Other Books You May Enjoy <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/mastering-go/9781788626545/dbe87f59-0a56-41ac-8286-d669594be98c.xhtml">
+        Leave a review - let other readers know what you think <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+   </li></ul></li></ul></li></ul></li></ol>
+ </div>
