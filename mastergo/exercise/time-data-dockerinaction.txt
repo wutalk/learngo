@@ -1,0 +1,419 @@
+<div class="sbo-toc">
+    <button type="button" class="sbo-toc-thumb close"><div class="visuallyhidden">Close</div></button>
+      <section class="ios-app-teaser">
+        <ul>
+            <li><a class="js-toc-link toc-link" href="https://itunes.apple.com/gb/app/safari-queue-library-over/id881697395?mt=8" role="button">Install App</a></li>
+            <li><a class="js-toc-link toc-link" href="safaridetail://9781617294761" role="button">Open in App</a></li>
+        </ul>
+      </section>
+      <div class="sbo-book-meta">
+        
+        <span class="cover">
+         <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/">
+          <img src="/library/cover/9781617294761/" alt="Cover image for Docker in Action, Second Edition" height="179" width="143">
+        </a>
+        </span>
+        <span class="title">
+          
+            
+                <a class="js-toc-link toc-link" href="/library/publisher/manning-publications/">
+                  <img src="/static/images/partners/manning-publications/manning_logo.png" class="publisher-logo video" alt="publisher logo">
+                </a>
+            
+          
+
+          <a href="/library/view/docker-in-action/9781617294761/">Docker in Action, Second Edition</a>
+        </span>
+        
+        <span class="authors">by Jeffrey Nickoloff; Stephen Kuenzli</span>
+        
+
+        
+        <span class="publishers t-publishers">Published by
+          <!-- Show publisher page link if publisher pages switch is on -->
+          
+            <a class="t-publisher-link toc-link js-toc-link" href="/library/publisher/manning-publications/">
+              Manning Publications</a>, 2019
+          
+        </span>
+        
+
+    
+
+    </div>
+  <ol class="tocList">
+    
+    
+    
+     
+
+     <li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_001.html">
+        Copyright <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_003.html">
+        Brief Table of Contents <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_004.html">
+        Table of Contents <span class="minutes">(10:21 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_005.html">
+        Praise for the first edition <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_006.html">
+        Foreword <span class="minutes">(02:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_007.html">
+        Preface <span class="minutes">(04:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_008.html">
+        Acknowledgments <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_009.html">
+        About this book <span class="minutes">(03:27 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_010.html">
+        About the authors <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_011.html">
+        About the cover illustration <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_012.html">
+        Chapter 1. Welcome to Docker <span class="minutes">(33:21 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_013.html">
+        Part 1. Process isolation and environment-independent computing <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_014.html">
+        Chapter 2. Running software in containers <span class="minutes">(57:30 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_015.html">
+        Chapter 3. Software installation simplified <span class="minutes">(33:21 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_016.html">
+        Chapter 4. Working with storage and volumes <span class="minutes">(34:30 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_017.html">
+        Chapter 5. Single-host networking <span class="minutes">(39:06 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_018.html">
+        Chapter 6. Limiting risk with resource controls <span class="minutes">(50:36 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_019.html">
+        Part 2. Packaging software for distribution <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_020.html">
+        Chapter 7. Packaging software in images <span class="minutes">(39:06 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_021.html">
+        Chapter 8. Building images automatically with Dockerfiles <span class="minutes">(62:06 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_022.html">
+        Chapter 9. Public and private software distribution <span class="minutes">(51:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_023.html">
+        Chapter 10. Image pipelines <span class="minutes">(39:06 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_024.html">
+        Part 3. Higher-level abstractions and orchestration <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+     <ul class="toc-level-2">
+     
+
+     <li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_025.html">
+        Chapter 11. Services with Docker and Compose <span class="minutes">(48:18 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_026.html">
+        Chapter 12. First-class configuration abstractions <span class="minutes">(41:24 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level2">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_027.html">
+        Chapter 13. Orchestrating services on a cluster of Docker hosts with Swarm <span class="minutes">(75:54 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+    </li></ul>
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_028.html">
+        Docker running three containers on a Linux system <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_029.html">
+        Index <span class="minutes">(34:30 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_030.html">
+        List of Figures <span class="minutes">(05:45 mins)</span>
+       </a>
+      
+        
+      
+    
+    
+     
+
+     </li><li class="toc-level1 currently-reading">
+        
+        <a class="js-toc-link toc-link" href="/library/view/docker-in-action/9781617294761/kindle_split_031.html">
+        List of Tables <span class="minutes">(01:09 mins)</span>
+       </a>
+      
+        
+      
+   </li></ol>
+ </div>

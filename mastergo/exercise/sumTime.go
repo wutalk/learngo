@@ -13,7 +13,7 @@ import (
 func main() {
 	fmt.Println("begin sum time")
 
-	filename := "time-data.txt"
+	filename := "time-data-dockerinaction.txt"
 	f, err := os.Open(filename)
 	if err != nil {
 		fmt.Printf("error opening file %s", err)
