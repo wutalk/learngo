@@ -1,0 +1,167 @@
+start format notes of book [Docker in Action, Second Edition] in file [safari-annotations-export 2020-04-06.csv]
+
+There are 51 notes
+
+ Chapter 1. Welcome to Docker
+Docker isn?€?t a programming language, and it isn?€?t a framework for building software. Docker is a tool that helps solve common
+         problems such as installing, removing, upgrading, distributing, trusting, and running software. 
+
+Docker is not a hardware virtualization technology.
+         Instead, it helps you use the container technology already built into your operating system kernel. 
+
+Docker uses Linux namespaces and cgroups, which have been part
+         of Linux since 2007. 
+
+Images are the shippable units in the Docker ecosystem. 
+
+
+ Chapter 2. Running software in containers
+Network links and user-defined networks are not equivalent, but Docker recommends migrating to user-defined networks. 
+
+Docker has three specific features to help build environment-agnostic systems:
+      
+      
+      
+         
+         Read-only filesystems
+         
+         Environment variable injection
+         
+         Volumes 
+
+The primary focus of the Docker project is to enable users to run software in containers. 
+
+
+ Chapter 3. Software installation simplified
+A Dockerfile is a script that describes steps for Docker to take to build a new image. 
+
+Docker provides a command to load images into Docker from a file. 
+
+The docker load and docker save commands can be used to load and save images from TAR archives. 
+
+Distributing a Dockerfile with a project simplifies image builds on user machines. 
+
+
+ Chapter 4. Working with storage and volumes
+three most common types of storage mounted into containers:
+      
+      
+      
+      
+         
+         Bind mounts
+         
+         In-memory storage
+         
+         Docker volumes 
+
+images are appropriate for packaging and distributing relatively static files such as programs; volumes
+         hold dynamic data or specializations. 
+
+
+ Chapter 5. Single-host networking
+When you specify the --network host option on a docker run command, you are telling Docker to create a new container without any special network adapters or network namespace. Whatever
+         software is running inside the resulting container will have the same degree of access to the host network as it would running
+         outside the container. 
+
+8080:8080 both are the same port number is not a good example, I don't know which 8080 is the host and which is the container.
+
+
+ Chapter 6. Limiting risk with resource controls
+By default, Docker
+         containers may use unlimited CPU, memory, and device I/O resources. The docker container create and run commands provide flags for managing resources available to the container. 
+
+The intent of this tool is to prevent one or a set of processes from overwhelming a computer, not to hinder performance of those processes.  
+
+
+ Chapter 8. Building images automatically with Dockerfiles
+A Dockerfile is a text file that contains instructions for building an image. 
+
+Dockerfiles are the most common way to describe
+         how to build a Docker image. 
+
+The only special rule about Dockerfiles is that the first instruction must be FROM. If you?€?re starting from an empty image and your software has no dependencies, or you?€?ll provide all the dependencies, then
+         you can start from a special empty repository named scratch. 
+
+Most importantly, if the shell form is used for ENTRYPOINT, all other arguments provided by the CMD instruction or at runtime as extra arguments to docker container run will be ignored. This makes the shell form of ENTRYPOINT less flexible. 
+
+A Dockerfile defines three instructions that
+         modify the filesystem: COPY, VOLUME, and ADD. 
+
+Using the exec (or string array) form wherever possible is the best practice. 
+
+ARG defines a variable that users can provide to Docker when building an image. 
+
+A multistage Dockerfile is a Dockerfile that has multiple FROM instructions. 
+
+To recap, the http-client.df Dockerfile uses a builder stage to retrieve runtime dependencies and build the http-client program. The runtime stage then copies http-client and its dependencies from the builder stage onto the minimal scratch base and configures it for execution. The resulting image contains only what is needed to run the program and is just over 6 MB in size. 
+
+Multistage builds can help solve a few common problems. The primary uses are reusing parts of another image, separating the build of an application from the build of an application runtime image,  
+
+Docker runs a single command inside the container to determine whether the application is healthy. There are two ways to specify
+         the health check command:
+      
+      
+      
+      
+         
+         Use a HEALTHCHECK instruction when defining the image
+         
+         
+         On the command-line when running a container 
+
+The health check command should be reliable, lightweight, and not interfere with the operation of the main application because
+         it will be executed frequently. 
+
+#NAME? 
+
+Hardening an image is the process of shaping it in a way that will reduce the attack surface inside any Docker containers based on
+         it. 
+
+
+ Chapter 9. Public and private software distribution
+Docker Hub, Quay.io, and Google Container Registry are all examples of hosted registry providers. 
+
+
+ Chapter 10. Image pipelines
+All-in-one images have downsides. Because they contain more tools than are necessary to run the application 
+
+This pattern is now supported and encouraged by many CI tools 
+
+make, a widely available tool used to build programs, understands dependencies between the steps of a build process.  
+
+Here is a Makefile that will gather metadata, and then build, test, and tag the application artifact and images: 
+
+Semantic versioning (https://semver.org/) is a popular approach to versioning artifacts with a version number of the form Major.Minor.Patch. 
+
+Tagging the image as version 1.0.0 signals that you are ready to maintain backward compatibility in the operation of the software.  
+
+
+ Chapter 11. Services with Docker and Compose
+Today most of the software we run is designed to interact with other programs, not human users. 
+
+Any processes, functionality, or data that must be discoverable and available over a network  
+
+is called a service.  
+
+For our purposes, you can consider the terms task and container roughly interchangeable. 
+
+A stack describes collections of services, volumes, networks, and other  
+
+Comment support is one of the most popular reasons to adopt YAML instead of JSON today. A YAML document can include a comment at the end of any line. Comments are marked by a space followed by a hash sign ( #). 
+
+The value for image in the preceding example is specified in double-quote style, which is capable of expressing arbitrary strings, by using \ escape sequences.  
+
+The plain (unquoted) style has no identifying indicators and provides no form of escaping. It is therefore the most readable, most limited, and most context-sensitive style.  
+
+The block style is more common and will be used in this primer except where noted. The three types of data are maps, lists, and scalar values. 
+
+YAML uses indentation to indicate content scope.  
+
+The full YAML 1.2 specification is available at http://yaml.org/spec/1.2/2009-07-21/spec.html and is quite readable.  
+
+Docker stack is a named collection of services, volumes, networks, secrets, and configs. The docker stack 
+
+Health checks and related parameters can be specified at service creation time, changed or set on service updates,
+         or even specified as image metadata by using the HEALTHCHECK Dockerfile directive. 
+
