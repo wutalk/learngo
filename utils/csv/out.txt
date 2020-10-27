@@ -1,0 +1,170 @@
+start format notes of book [Data Structures and Algorithms in Java, 2nd Edition] in file [safari-annotations-export 2020-04-06.csv]
+
+There are 62 notes
+
+ Introduction
+red-black trees, one of the most efficient balanced trees. 
+
+
+ 1 Overview
+An object contains both methods and variables. java object likes a service. microservice is bigger than this
+
+Software engineering is the study of ways to create large and complex computer programs, involving many programmers. 
+
+This book should equip you with the knowledge to know what sort of data structure you need and the fundamentals of how it works. 
+
+
+ 2 Arrays
+O(1) is excellent, O(log N) is good, O(N) is fair, and O(N2) is poor. O(N2) occurs in the bubble sort 
+
+
+ 3 Simple Sorting
+If the data is random, a swap is necessary about half the time, so there will be about N2/4 swaps.  
+
+Whenever you see one loop nested within another, such as those in the bubble sort and the other sorting algorithms in this chapter, you can suspect that an algorithm runs in O(N2) time. 
+
+selection sort improves on the bubble sort by reducing the number of swaps necessary from O(N2) to O(N). Unfortunately, the number of comparisons remains O(N2). 
+
+If the data is almost sorted, insertion sort runs in almost O(N) time, which makes it a simple and efficient way to order a file that is only slightly out of order. 
+
+
+ 4 Stacks and Queues
+They’re defined primarily by their interface: the permissible operations that can be carried out on them. The underlying mechanism used to implement them is typically not visible to their user. 
+
+how a stack can be used to check whether parentheses, braces, and brackets are balanced in a computer program source file. At the end of this chapter, we’ll see a stack playing a vital role in parsing (analyzing) arithmetic expressions such as 3*(4+5).
+
+A stack is also a handy aid for algorithms applied to certain complex data structures. In Chapter 8, “Binary Trees,” we’ll see it used to help traverse the nodes of a tree. In Chapter 13, “Graphs,” we’ll apply it to searching the vertices of a graph  
+
+placing opening delimiters when it finds them, on a stack. When it reads a closing delimiter from the input, it pops the opening delimiter from the top of the stack and attempts to match it with the closing delimiter.  
+
+Everyday arithmetic expressions are written with an operator (+, –, *, or /) placed between two operands (numbers, or symbols that stand for numbers). This is called infix notation because the operator is written inside the operands.  
+
+In postfix notation (which is also called Reverse Polish Notation, or RPN, because it was invented by a Polish mathematician), the operator follows the two operands. Thus, A+B becomes AB+, and A/B becomes AB/.  
+
+algorithm, to evaluate an arithmetic expression directly. It’s easier for the algorithm to use a two-step process:
+
+1. Transform the arithmetic expression into a different format, called postfix notation.
+
+2. Evaluate the postfix expression. 
+
+Step 1 is a bit involved, but step 2 is easy. 
+
+store the operands on a stack. (This is the opposite of the infix-to-postfix translation algorithm, where operators were stored on the stack.)  
+
+
+ 5 Linked Lists
+arrays had certain disadvantages as data storage structures. In an unordered array, searching is slow, whereas in an ordered array, insertion is slow. In both kinds of arrays, deletion is slow. Also, the size of an array can’t be changed after it’s created. most advantage is acess is O（1）fast if index is known.
+
+In an array each item occupies a particular position. This position can be directly accessed using an index number. It’s like a row of houses: You can find a particular house using its address. 
+
+You can’t access a data item directly; you must use relationships between the items to locate it. You start with the first item, go to the second, then the third, until you find what you’re looking for. 
+
+Insertion and deletion at the beginning of a linked list are very fast. They involve changing only one or two references, which takes O(1) time.
+
+Finding, deleting, or inserting next to a specific item requires searching through, on the average, half the items in the list. This requires O(N) comparisons. An array is also O(N) for these operations, but the linked list is nevertheless faster because nothing needs to be moved when an item is inserted or deleted.  
+
+Abstract Data Types (ADTs). What is an ADT? Roughly speaking, it’s a way of looking at a data structure: focusing on what it does and ignoring how it does its job. 
+
+The user of the stack class calls push() and pop() to insert and delete items without knowing, or needing to know, whether the stack is implemented as an array or as a linked list.  
+
+understanding the type means understanding what operations can be performed on it. 
+
+a stack or queue is represented by a class, it too can be referred to as a data type. A stack is different in many ways from an int, but they are both defined as a certain arrangement of data and a set of operations on that data. 
+
+An ADT specification is often called an interface. It’s what the class user sees—usually its public methods. In a stack class, push() and pop() and similar methods form the interface. 
+
+If you need to store data, start by considering the operations that need to be performed on that data.  
+
+ the items from the array and insert them one by one into the sorted list 
+
+This type of sort turns out to be substantially more efficient than the more usual insertion sort within an array,  
+
+
+ 6 Recursion
+Recursion is a programming technique in which a method (function) calls itself. 
+
+recursive approach can be transformed into a stack-based approach. 
+
+Recursion is usually used because it simplifies a problem conceptually, not because it’s inherently more efficient. 
+
+The recursive binary search is an example of the divide-and-conquer approach.  
+
+Here’s a rule of thumb that may help when you try to solve the puzzle manually. If the subtree you’re trying to move has an odd number of disks, start by moving the topmost disk directly to the tower where you want the subtree to go. If you’re trying to move a subtree with an even number of disks, start by  
+
+moving the topmost disk to the intermediate tower. 
+
+Often an algorithm is easy to conceptualize as a recursive method, but in practice the recursive approach proves to be inefficient. In such cases, it’s useful to transform the recursive approach into a non-recursive approach. Such a transformation can often make use of a stack. 
+
+Often you’ll need to experiment to see whether a recursive method, a stack-based approach, or a simple loop is the most efficient (or practical) way to handle a particular situation. 
+
+
+ 7 Advanced Sorting
+Shellsort and quicksort. These sorts both operate much faster than the simple sorts: the Shellsort in about O(N*(logN)2) time, and quicksort in O(N*logN) time. Neither of these sorts requires a large amount of extra space, as mergesort does. The Shellsort is almost as easy to implement as mergesort, while quicksort is the fastest of all the general-purpose sorts.  
+
+The Shellsort is good for medium-sized arrays, perhaps up to a few thousand items, depending on the particular implementation. It’s not quite as fast as quicksort and other O(N*logN) sorts, so it’s not optimum for very large files. However, it’s much faster than the O(N2) sorts like the selection sort and the insertion sort, and it’s very easy to implement: The code is short and simple. 
+
+The partition algorithm runs in O(N) time 
+
+Quicksort is undoubtedly the most popular sorting algorithm, and for good reason: In the majority of situations, it’s the fastest, operating in O(N*logN) time. (This is only true for internal or in-memory sorting; for sorting data in disk files, other algorithms may be better.)  
+
+
+ 6 Recursion
+The mergesort is also fairly easy to implement. It’s conceptually easier than quicksort and the Shell short, which we’ll encounter in the next chapter.
+
+The downside of the mergesort is that it requires an additional array in memory, equal in size to the one being sorted. 
+
+
+ 8 Binary Trees
+Why might you want to use a tree? Usually, because it combines the advantages of two other structures: an ordered array and a linked list. You can search a tree quickly, as you can an ordered array, and you can also insert and delete items quickly, as you can with a linked list.  
+
+insertions and deletions are quick to perform on a linked list. They are accomplished simply by changing a few references. These operations require O(1) time (the fastest Big O time). 
+
+an ordered array, such as we saw in Chapter 2, “Arrays.” As we learned, you can quickly search such an array for a particular value, using a binary search. can be O(logN), unsorted array can only be O(N*logN).
+add and delete are O(N). linked list add/delete are O(1), while search is O(N). how to have both.
+
+It would be nice if there were a data structure with the quick insertion and deletion of a linked list, and also the quick searching of an ordered array. Trees provide both these characteristics, and are also one of the most interesting data structures. 
+
+A tree consists of nodes connected by edges.  
+
+A tree is actually an instance of a more general category called a graph 
+
+If every node in a tree can have at most two children, the tree is called a binary tree. 
+
+The defining characteristic of a binary search tree is this: A node’s left child must have a key less than its parent, and a node’s right child must have a key greater than or equal to its parent. 
+
+A complete pathname, such as C:\SALES\EAST\NOVEMBER\SMITH.DAT, corresponds to the path from the root to the SMITH.DAT leaf. Terms used for the file structure, such as root and path, were borrowed from tree theory. 
+
+This is O(logN) time, or more specifically O(log2N) time, the logarithm to the base 2. like binary search. log2N means how many half will to 1. 2^3=8, log2^8=3 means 8/2 three times will come to 1.
+
+Trees perform searches, insertions, and deletions in O(log N) time. 
+
+
+ 9 Red-Black Trees
+When there are no branches, the tree becomes, in effect, a linked list. The arrangement of data is one-dimensional instead of two-dimensional. Unfortunately, as with a linked list, you must now search through (on the average) half the items to find the one you’re looking for. In this situation the speed of searching is reduced to O(N), instead of O(logN) as it is for a balanced tree. 
+
+Red-Black Rules
+When inserting (or deleting) a new node, certain rules, which we call the red-black rules, must be followed. If they’re followed, the tree will be balanced. Let’s look briefly at these rules:
+
+1. Every node is either red or black.
+2. The root is always black.
+3. If a node is red, its children must be black (although the converse isn’t necessarily true).
+4. Every path from the root to a leaf, or to a null child, must contain the same number of black nodes. 
+
+These rules probably seem completely mysterious. It’s not obvious how they will lead to a balanced tree, but they do; some very clever people invented them. Copy them onto a sticky note, and keep it on your computer. You’ll need to refer to them often in the course of this chapter. 
+
+Like ordinary binary search trees, a red-black tree allows for searching, insertion, and deletion in O(log2N) time. 
+
+Of course, the advantage is that in a red-black tree sorted data doesn’t lead to slow O(N) performance. 
+
+
+ 11 Hash Tables
+No matter how many data items there are, insertion and searching (and sometimes deletion) can take close to constant time: O(1) in big O notation. 
+
+However, if you don’t need to visit items in order, and you can predict in advance the size of your database, hash tables are unparalleled in speed and convenience. 
+
+
+ 15 When to Use What
+A hash table with separate chaining is the most robust implementation, unless the amount of data is known accurately in advance, in which case open addressing offers simpler programming because no linked list class is required 
+
+Table 15.1 summarizes the speeds of the various general-purpose data storage structures using Big O notation 
+

@@ -1,9 +1,9 @@
-start format notes of book [Docker in Action, Second Edition] in file [safari-annotations-export 2020-04-06.csv]
+start format notes of book [Docker in Action, Second Edition] in file [safari-annotations-export.csv]
 
 There are 51 notes
 
  Chapter 1. Welcome to Docker
-Docker isn?€?t a programming language, and it isn?€?t a framework for building software. Docker is a tool that helps solve common
+Docker isn’t a programming language, and it isn’t a framework for building software. Docker is a tool that helps solve common
          problems such as installing, removing, upgrading, distributing, trusting, and running software. 
 
 Docker is not a hardware virtualization technology.
@@ -80,7 +80,7 @@ A Dockerfile is a text file that contains instructions for building an image.
 Dockerfiles are the most common way to describe
          how to build a Docker image. 
 
-The only special rule about Dockerfiles is that the first instruction must be FROM. If you?€?re starting from an empty image and your software has no dependencies, or you?€?ll provide all the dependencies, then
+The only special rule about Dockerfiles is that the first instruction must be FROM. If you’re starting from an empty image and your software has no dependencies, or you’ll provide all the dependencies, then
          you can start from a special empty repository named scratch. 
 
 Most importantly, if the shell form is used for ENTRYPOINT, all other arguments provided by the CMD instruction or at runtime as extra arguments to docker container run will be ignored. This makes the shell form of ENTRYPOINT less flexible. 
@@ -113,7 +113,7 @@ Docker runs a single command inside the container to determine whether the appli
 The health check command should be reliable, lightweight, and not interfere with the operation of the main application because
          it will be executed frequently. 
 
-#NAME? 
+--health-cmd to define a health check when running a container. 
 
 Hardening an image is the process of shaping it in a way that will reduce the attack surface inside any Docker containers based on
          it. 
