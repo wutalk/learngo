@@ -30,32 +30,31 @@ func main() {
 	}
 	fmt.Println("start main")
 
-	if i == 0 {
+	switch i {
+	case 0:
 		consumer.ConsumeMessage()
-	} else if i == 1 {
+	case 1:
 		cg.Consume()
-	} else if i == 11 {
+	case 11:
 		cg1.Consume()
-	} else if i == 2 {
+	case 2:
 		cluster.ConsumeCluster()
-	} else if i == 3 {
+	case 3:
 		producer.ProduceMessage()
-	}
-
-	if i == -2 {
+	// other
+	case -2:
 		envparse.EnvParse()
-	}
-	if i == -3 {
+	case -3:
 		net.ReadPage("https://example.com")
-	}
-	if i == -4 {
-		net.StartHttpServer()
-	}
-	if i == -5 {
+	case -4:
+		s := net.NewMyServer()
+		s.StartHttpServer()
+	case -5:
 		json.MarshalAndUnmarshalDB()
-	}
-	if i == -6 {
+	case -6:
 		runes.RuneUsage()
+	default:
+		fmt.Println("do nothing")
 	}
 
 	fmt.Println("end main")

@@ -2,9 +2,10 @@ package envparse
 
 import (
 	"fmt"
-	"github.com/kelseyhightower/envconfig"
 	"log"
 	"time"
+
+	"github.com/kelseyhightower/envconfig"
 )
 
 /*
@@ -25,7 +26,7 @@ export KAFKA_CONSUMER_GROUP="test-group"
 type specification struct {
 	Debug      bool
 	Port       int
-	User       string
+	User       string `envconfig:"OWU_USER"`
 	Users      []string
 	Rate       float32
 	Timeout    time.Duration

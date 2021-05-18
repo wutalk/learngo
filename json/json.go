@@ -57,7 +57,7 @@ func MarshalAndUnmarshalDB() {
 		CreatedAt:   time.Now().UTC(), /* .Format(time.RFC3339) */
 		Status:      "ongoing",
 	}
-	fmt.Printf("original object:\t%s\n", st)
+	fmt.Printf("original object:\v%v\n", st)
 	byteJson, err := json.Marshal(st)
 	if err != nil {
 		log.Fatal(err)

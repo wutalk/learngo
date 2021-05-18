@@ -3,6 +3,7 @@ package cg
 import (
 	"context"
 	"fmt"
+
 	"github.com/Shopify/sarama"
 )
 
@@ -27,7 +28,8 @@ func (h exampleConsumerGroupHandler) ConsumeClaim(sess sarama.ConsumerGroupSessi
 
 func Consume() {
 	groupName := "my-group"
-	topicName := "test"
+	// topicName := "test"
+	topicName := "mdi.content.change"
 	// Init config, specify appropriate version
 	config := sarama.NewConfig()
 	config.Version = sarama.V1_0_0_0
@@ -67,6 +69,6 @@ func Consume() {
 		if err != nil {
 			panic(err)
 		}
-		fmt.Println("partitions will be re-assigned") // no change to go here. If more consumers in consumergroup, will be here
+		fmt.Println("partitions will be re-assigned") // no chance to go here. If more consumers in consumergroup, will be here
 	}
 }

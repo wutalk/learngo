@@ -1,6 +1,7 @@
 package consumer
 
 import (
+	"fmt"
 	"log"
 	"os"
 	"os/signal"
@@ -8,6 +9,7 @@ import (
 	"github.com/Shopify/sarama"
 )
 
+// ConsumeMessage Consumer
 func ConsumeMessage() {
 	log.SetOutput(os.Stdout)
 
@@ -25,11 +27,16 @@ func ConsumeMessage() {
 		}
 	}()
 
-	partitions, err := consumer.Partitions("test")
+	// topic := "quickstart-events"
+	topic := "mdi.content.change"
+	partitions, err := consumer.Partitions(topic)
+	if err != nil {
+		fmt.Println(err)
+	}
 	log.Println("partition IDs: ", partitions)
 
 	for _, id := range partitions {
-		go consume(consumer, "test", id)
+		go consume(consumer, topic, id)
 	}
 
 	// consume(consumer, "test", partitions[0])
